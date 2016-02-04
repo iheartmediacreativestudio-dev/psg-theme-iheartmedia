@@ -81,11 +81,13 @@ code {
 }
 
 pre {
-  display: block;
-  margin: 1rem 0 ;
-  line-height: 1.4;
-  white-space: pre;
-  white-space: pre-wrap;
+display: block;
+margin: 1rem 0 ;
+line-height: 1.4;
+white-space: pre;
+white-space: pre-wrap;
+background: none;
+border: none;
 }
 
 pre.code {
