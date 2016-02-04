@@ -61,6 +61,11 @@ blockquote:last-child{
 /*
  * Code
  */
+.col-md-5 {
+max-height: 1000px;
+overflow: scroll;
+background: #f9f9f9;
+}
 
 code,
 pre {
