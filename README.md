@@ -1,6 +1,6 @@
 # psg-theme-iheartmedia
 
-TODO: Please write description.
+iHeartMedia, inc. custom living style guide theme
 
 ## Theme
 
@@ -10,4 +10,4 @@ TODO: Please add a capture image.
 
 ## License
 
-MIT © bar
+UNLICENSED
