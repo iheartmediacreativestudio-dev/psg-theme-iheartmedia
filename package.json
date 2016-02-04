@@ -1,0 +1,47 @@
+{
+  "name": "psg-theme-iheartmedia",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "psg-theme"
+  ],
+  "files": [],
+  "dependencies": {}
+}
+
+{
+  "author": {
+    "name": "Matthew Reynolds (matthewreynolds@iheartmedia.com)"
+  },
+  "dependencies": {},
+  "description": "Default theme for iHeartMedia, inc. core web framework living style guide",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "",
+    "tarball": ""
+  },
+  "gitHead": "",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "iheartmedia-matt",
+      "email": "matthewreynolds@iheartmedia.com"
+    }
+  ],
+  "name": "psg-theme-iheartmedia",
+  "optionalDependencies": {},
+  "readme": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "tape test"
+  },
+  "version": "0.5.1"
+}
